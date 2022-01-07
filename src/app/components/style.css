@@ -13,6 +13,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   align-items: center;
+  padding: 5rem;
 }
 
 .content-row {
