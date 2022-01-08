@@ -23,3 +23,8 @@
   flex-wrap: wrap;
   align-items: center;
 }
+
+.dorde {
+  outline: 2px dotted black;
+  display: block;
+}

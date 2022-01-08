@@ -7,7 +7,9 @@ import './components/style.css';
 // import Typographyexample from './Typographyexample';
 // import Inputs from './components/Inputs';
 // import Selects from './components/Selects';
-import Messages from './components/Messages';
+// import Messages from './components/Messages';
+// import GridSystem from './components/GridSystem';
+import Forms from './components/Forms';
 
 const index = () => {
   return (
@@ -17,7 +19,9 @@ const index = () => {
       {/* <Typographyexample /> */}
       {/* <Inputs /> */}
       {/* <Selects /> */}
-      <Messages />
+      {/* <Messages /> */}
+      {/* <GridSystem /> */}
+      <Forms />
     </div>
   );
 };
